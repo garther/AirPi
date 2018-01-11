@@ -3,7 +3,7 @@
 # Installation
 ## Sensor node
 ### Install OS
-Perpare base Debian image following https://www.raspberrypi.org/documentation/installation/installing-images/
+Perpare base Debian image following the officail guide: https://www.raspberrypi.org/documentation/installation/installing-images/. Use: RASPBIAN STRETCH LITE version.
 
 # Credits:
 Based on project:
