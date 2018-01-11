@@ -1,5 +1,9 @@
 # AirQ
 We are totally in Work In Progress  mode ;)
+# Parts
+Raspberry Pi Zero W
+DS3231
+# Wiring
 # Installation
 ## Sensor node
 ### Install OS
